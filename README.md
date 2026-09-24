@@ -308,6 +308,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ for advancing early dementia detection through AI
+
 
 </div>
